@@ -1,6 +1,6 @@
 # IMDB Sentiment Analysis with RNN
 
-## 📌 Overview
+## Overview
 This project trains a **Recurrent Neural Network (RNN)** using PyTorch to classify IMDB movie reviews as **positive** or **negative**.  
 The workflow includes:
 - Text preprocessing (lowercasing, removing URLs, punctuations, HTML, stopwords, stemming)
@@ -16,7 +16,3 @@ The workflow includes:
 - pandas, numpy, scikit-learn
 - nltk
 - torch
-
-Install dependencies:
-```bash
-pip install -r requirements.txt
