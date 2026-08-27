@@ -9,9 +9,9 @@ The workflow includes:
 - PyTorch Dataset & DataLoader
 - RNN model training & evaluation
 
----
 
-## ⚙️ Requirements
+
+##  Requirements
 - Python 3.9+
 - pandas, numpy, scikit-learn
 - nltk
