@@ -3,7 +3,7 @@
 ## Overview
 This project trains a **Recurrent Neural Network (RNN)** using PyTorch to classify IMDB movie reviews as **positive** or **negative**.  
 The workflow includes:
-- Text preprocessing (lowercasing, removing URLs, punctuations, HTML, stopwords, stemming)
+- Text preprocessing (lowercasing, removing URL, punctuations, HTML, stopwords, stemming)
 - TF-IDF vectorization
 - Train/Test split
 - PyTorch Dataset & DataLoader
